@@ -1,1 +1,1 @@
-return {["ONLY MALIK"]={["device"]="22",["password"]="333",["expiry"]="2026-08-01",["sid"]="123"}}
+return {["MALIK"]={["device"]="sh72726gkqk261",["password"]="X",["expiry"]="2026-08-01",["sid"]="X"}}
