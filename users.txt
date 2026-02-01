@@ -1,1 +1,1 @@
-return {}
+return {["ADMIN"]={["device"]="22",["password"]="33",["expiry"]="2099-12-30",["sid"]="123"}}
